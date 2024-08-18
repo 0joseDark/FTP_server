@@ -12,3 +12,6 @@ source venv/bin/activate
 # sudo apt-get install python3-tk
 
 # pip install pyftpdlib
+
+ftp://localhost:2121/
+
