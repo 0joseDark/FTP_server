@@ -12,3 +12,11 @@ source venv/bin/activate
 # sudo apt-get install python3-tk
 
 # pip install pyftpdlib
+
+# ftp://localhost:2121
+
+Host: localhost (ou o endereço IP da máquina que está rodando o servidor).
+Porta: 2121.
+Nome de usuário: Deixe em branco (anônimo).
+Senha: Deixe em branco (anônimo).
+
