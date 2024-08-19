@@ -13,10 +13,6 @@ source venv/bin/activate
 
 # pip install pyftpdlib
 
-# ftp://localhost:2121
+# ftp://localhost:21
 
-Host: localhost (ou o endereço IP da máquina que está rodando o servidor).
-Porta: 21.
-Nome de usuário: Deixe em branco (anônimo).
-Senha: Deixe em branco (anônimo).
 
