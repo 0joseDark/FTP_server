@@ -16,7 +16,7 @@ source venv/bin/activate
 # ftp://localhost:2121
 
 Host: localhost (ou o endereço IP da máquina que está rodando o servidor).
-Porta: 2121.
+Porta: 21.
 Nome de usuário: Deixe em branco (anônimo).
 Senha: Deixe em branco (anônimo).
 
